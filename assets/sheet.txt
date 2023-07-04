@@ -1,0 +1,181 @@
+
+sheet.png
+size: 576, 173
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+Ex4_Pausa
+  rotate: false
+  xy: 514, 20
+  size: 21, 15
+  orig: 21, 15
+  offset: 0, 0
+  index: -1
+Fireball1
+  rotate: false
+  xy: 532, 2
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Fireball2
+  rotate: false
+  xy: 514, 2
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Microondas
+  rotate: false
+  xy: 342, 7
+  size: 34, 28
+  orig: 34, 28
+  offset: 0, 0
+  index: -1
+bg
+  rotate: false
+  xy: 2, 11
+  size: 272, 160
+  orig: 272, 160
+  offset: 0, 0
+  index: -1
+bubble_explo1
+  rotate: false
+  xy: 446, 3
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+bubble_explo10
+  rotate: false
+  xy: 440, 37
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+bubble_explo2
+  rotate: false
+  xy: 508, 37
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+bubble_explo3
+  rotate: false
+  xy: 474, 37
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+bubble_explo4
+  rotate: false
+  xy: 378, 3
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+bubble_explo5
+  rotate: false
+  xy: 538, 71
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+bubble_explo6
+  rotate: false
+  xy: 480, 3
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+bubble_explo7
+  rotate: false
+  xy: 542, 37
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+bubble_explo8
+  rotate: false
+  xy: 538, 105
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+bubble_explo9
+  rotate: false
+  xy: 412, 3
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+g_coin
+  rotate: false
+  xy: 276, 7
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+heli1
+  rotate: false
+  xy: 440, 105
+  size: 96, 32
+  orig: 96, 32
+  offset: 0, 0
+  index: -1
+heli2
+  rotate: false
+  xy: 374, 139
+  size: 96, 32
+  orig: 96, 32
+  offset: 0, 0
+  index: -1
+heli3
+  rotate: false
+  xy: 440, 71
+  size: 96, 32
+  orig: 96, 32
+  offset: 0, 0
+  index: -1
+heli4
+  rotate: false
+  xy: 472, 139
+  size: 96, 32
+  orig: 96, 32
+  offset: 0, 0
+  index: -1
+heli5
+  rotate: false
+  xy: 276, 139
+  size: 96, 32
+  orig: 96, 32
+  offset: 0, 0
+  index: -1
+heli6
+  rotate: false
+  xy: 342, 71
+  size: 96, 32
+  orig: 96, 32
+  offset: 0, 0
+  index: -1
+heli7
+  rotate: false
+  xy: 342, 105
+  size: 96, 32
+  orig: 96, 32
+  offset: 0, 0
+  index: -1
+heli8
+  rotate: false
+  xy: 342, 37
+  size: 96, 32
+  orig: 96, 32
+  offset: 0, 0
+  index: -1
+s_coin
+  rotate: false
+  xy: 276, 73
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
